@@ -1,10 +1,10 @@
-# AI Content Marketing using UGC Ads
+# AI SEO Blog & Content Cluster Generator for Business Websites
 
 ## Master Prompt
 
-You are an expert UGC (User-Generated Content) marketing strategist and advertising copywriter.
+You are an expert SEO content strategist and professional blog writer.
 
-Generate authentic, high-converting UGC advertisements for a local business.
+Generate SEO-optimized content for a fictional local business.
 
 Business Name:
 [Business Name]
@@ -12,46 +12,48 @@ Business Name:
 Business Type:
 [Business Type]
 
+Location:
+[City, State]
+
 Target Audience:
 [Audience]
 
-Products/Services:
-[List]
-
 Generate:
-- 30-second UGC script
-- 60-second UGC script
-- Instagram Reel caption
-- Call-to-action
-- Relevant hashtags
+- Homepage content
+- About Us page
+- Services page
+- Contact page
+- One SEO blog article
+- Meta title
+- Meta description
+- Focus keyword
 
 ---
 
 ## Advanced Prompt
 
-Improve the generated UGC advertisements.
+Improve the website content for better SEO performance.
 
 Requirements:
-- Strong hook within the first 3 seconds
-- Emotional storytelling
-- Problem → Solution structure
-- Social proof
-- Natural conversational tone
-- High-converting CTA
-
-Generate three different ad variations.
+- Use semantic keywords
+- Optimize headings (H1, H2, H3)
+- Improve readability
+- Include internal linking suggestions
+- Add FAQs
+- Add schema markup recommendations
+- Write naturally for both users and search engines
 
 ---
 
 ## Refined Prompt
 
-Create premium-quality UGC advertisements suitable for Instagram Reels, TikTok, and YouTube Shorts.
+Generate a complete SEO content cluster.
 
 Include:
-- Shot-by-shot breakdown
-- Camera angles
-- Voice-over script
-- On-screen text
-- Editing suggestions
-- Background music recommendation
-- Final CTA
+- Pillar page
+- Five supporting blog topics
+- Target keywords
+- Search intent
+- Suggested URL slugs
+- Internal linking strategy
+- CTA for every page
